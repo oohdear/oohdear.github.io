@@ -170,6 +170,11 @@ header h2 {
 	width: 60%;
 }
 
+#about img {
+  max-width: 20vw;
+  height: auto;
+}
+
 .mainpoint {
 	text-decoration: blink;
 	font-size: 110%;
