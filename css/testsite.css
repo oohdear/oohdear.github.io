@@ -15,11 +15,11 @@ header {
 		}
 
 header #cianheadshot {
-	width: 10vw;
+	width: 7vw;
 	height: auto;
-	margin-left: 2vw;
+	margin-left: 5vw;
   	filter: invert(0%);
-  	top: 1vw;
+  	top: 2vw;
   	position: absolute;
   	z-index: 1;
   	display: inline-block;
