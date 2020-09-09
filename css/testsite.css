@@ -162,6 +162,10 @@ header h2 {
 	opacity: 0.5;
 }
 
+.projectbox	p{
+	margin-bottom: 20vw;
+}
+
 #about { 
 	text-align: center;
 	position: relative;
@@ -200,7 +204,7 @@ header h2 {
  	background-color: White;
 	text-align: center;
 	position: relative;
-	margin-top: 100vw;
+	margin-top: 30vw;
 	font-size: 50%;
  }
 
