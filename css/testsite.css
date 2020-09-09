@@ -157,6 +157,11 @@ header h2 {
 	width: 60vw;
 }
 
+.projectbox	h2{
+	font-size: 90%;
+	opacity: 0.5;
+}
+
 #about { 
 	text-align: center;
 	position: relative;
