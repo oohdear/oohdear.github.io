@@ -164,6 +164,12 @@ header h2 {
 	margin-bottom: 20vw;
 }
 
+.projectbox img{
+	width: 80%x;
+  height: auto;
+  display: block;
+}
+
 #about { 
 	text-align: center;
 	position: relative;
